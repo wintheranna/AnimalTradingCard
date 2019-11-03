@@ -1,0 +1,32 @@
+body {
+  border: 0.5px solid lightgrey;
+  box-shadow: 5px 10px #eaeaea;
+  width: 300px;
+  margin: 10px;
+  padding: 10px;
+  padding-top: 0px;
+  font: 10pt arial, serif;
+}
+img {
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+.textborder {
+  background-color: #ffeded;
+  border: 0.5px solid lightgrey;
+  width: 279px;
+  margin-top: 8px;
+  padding: 10px;
+}
+.stylefact {
+  font-style: italic;
+  color: #ff8f8f;
+}
+ul {
+  list-style-type: none;
+  padding-left: 0pt;
+}
+li span {
+  font-weight: bold;
+  color: #000000;
+}
